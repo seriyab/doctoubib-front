@@ -24,3 +24,15 @@ p
 	font-size: 35px;
 	text-align: center;
 }
+.bouton-2
+{
+	font-size: 14px;
+	margin-top: 20px;
+	text-align: center;
+	display: block;
+	max-width: 150px;
+	color: #e9edef;
+	background-color: #14546b;
+	padding: 9px 12px;
+	text-decoration: none;
+}
